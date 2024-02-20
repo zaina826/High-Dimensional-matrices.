@@ -1,2 +1,2 @@
-# Queues-Computer-Networking
- Stacks and Queues: implementing a basic version of network communication between peers within a computer network; that is, to implement a highly simplified computer networking protocol family similar to the Internet protocol suite.
+# High-dimensional matrices.
+Application of matrix data structures to decode images, using convolution, image sharpening, edge detection and gradient calculus.
